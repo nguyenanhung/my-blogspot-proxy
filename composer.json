@@ -1,5 +1,5 @@
 {
-    "name": "nguyenanhung/codeigniter3-vercel-skeleton",
+    "name": "nguyenanhung/my-blogspot-proxy",
     "description": "CodeIgniter v3 Vercel Skeleton Application",
     "keywords": [
         "php",
@@ -21,7 +21,7 @@
     ],
     "type": "project",
     "license": "GPL-3.0-or-later",
-    "homepage": "https://github.com/nguyenanhung/codeigniter3-vercel-skeleton",
+    "homepage": "https://github.com/nguyenanhung/my-blogspot-proxy",
     "authors": [
         {
             "name": "Nguyen An Hung",
@@ -31,9 +31,9 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/nguyenanhung/codeigniter3-vercel-skeleton/issues",
-        "wiki": "https://github.com/nguyenanhung/codeigniter3-vercel-skeleton/wiki",
-        "source": "https://github.com/nguyenanhung/codeigniter3-vercel-skeleton"
+        "issues": "https://github.com/nguyenanhung/my-blogspot-proxy/issues",
+        "wiki": "https://github.com/nguyenanhung/my-blogspot-proxy/wiki",
+        "source": "https://github.com/nguyenanhung/my-blogspot-proxy"
     },
     "require": {
         "php": "^7.1 || ^8.0",
