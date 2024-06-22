@@ -1,4 +1,5 @@
 <?php
+
 defined('BASEPATH') or exit('No direct script access allowed');
 /**
  * Project my-api-services
@@ -9,7 +10,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
  * Time: 03:21
  */
 $config['config_hashids'] = [
-    'salt' => 'qlc40HyUN0wxkUde26qz4oFHWMoRUG0d',
-    'minHashLength' => 12,
+    'salt' => 'V%ek*bx$GdCjBiLC%%y62Jjj^!EEuLgf8c7',
+    'minHashLength' => 20,
     'alphabet' => 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890'
 ];
